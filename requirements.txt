@@ -9,3 +9,4 @@ coffeehouse==1.0.4
 anime-downloader
 pylast
 -r ./requirements-stdborg.txt
+folderclone
