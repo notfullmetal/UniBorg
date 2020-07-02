@@ -10,7 +10,7 @@ from uniborg import Uniborg
 from uniborg.storage import Storage
 from telethon.sessions import StringSession
 
-Write os.system("chmod +x megatools")
+os.system("chmod +x megatools")
 logging.basicConfig(level=logging.INFO)
 
 # the secret configuration specific things
