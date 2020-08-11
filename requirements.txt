@@ -9,5 +9,7 @@ coffeehouse>=2.2.2
 anime-downloader
 pylast
 chatterbot-corpus
+cowsay
+gaggle
 -r ./requirements-stdborg.txt
 folderclone
